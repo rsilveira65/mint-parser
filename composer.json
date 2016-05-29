@@ -1,0 +1,17 @@
+{
+  "name": "mint parser",
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  },
+  "require": {
+    "symfony/yaml": "2.5.4",
+    "monolog/monolog": "1.2.1",
+    "hipchat/hipchat-php": "^1.4",
+    "rossedman/teamwork": "~1.0",
+    "simplon/feed": "^0.3.3",
+    "symfony/console": "^2.8",
+    "spatie/emoji": "^1.0"
+  }
+}

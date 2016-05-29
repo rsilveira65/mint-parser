@@ -1,0 +1,15 @@
+database:
+  db: mint
+  db_user: root
+  db_pass:
+  db_host: 127.0.0.1
+  db_charset: UTF8
+hipchat:
+  token: #yourhipchattoken#
+teamwork:
+  token: #teamworktoken#
+  url: #teamworkurl#
+  username: "teamwork username"
+gitlab:
+  url: https://yourgitlaburl/dashboard.atom?private_token=
+  token: #gitlabtoken#
