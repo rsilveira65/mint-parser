@@ -1,6 +1,7 @@
 # MINT Parser
 ## About
-Script to parse feed from GitLab, TeamWork and Hipchat.
+Work and constantly have to check feed from different sources like Teamwork, HipChat and GitLab, sometimes it’s a boring job, right?
+So, the MINT Parser it's a tool written in PHP that I’m developing to help me at work displaying all feed inside the terminal (and help to learn new techs like Symfony console, composer and API’S).
 
 ## Configuration
 To configure the application, set the follow parameters:
